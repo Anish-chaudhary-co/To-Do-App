@@ -5,10 +5,10 @@
 This project was created to practice building CRUD functionality and clean UI/UX.</p><br>
 
 <h2>Features</h2><br>
-1.Add new tasks
-2.Mark tasks as completed
-3.Delete tasks
+<p>1.Add new tasks</p>
+<p>2.Mark tasks as completed</p>
+<p>3.Delete tasks</p>
 
 
 <h2>Technologies Used</h2><br>
-Frontend: HTML, CSS, JavaScript
+<p>Frontend: HTML, CSS, JavaScript</p>
